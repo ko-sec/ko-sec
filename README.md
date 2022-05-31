@@ -1,11 +1,8 @@
-Hey 👋, This is kosec
-🕛🕧🕐🕜🕑🕝🕒🕞🕓🕟🕔🕠🕕🕡🕖🕢🕗🕣🕘🕤🕙🕥🕚🕦
-<p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=ko-sec&show_icons=true&theme=chartreuse-dark&count_private=true">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=ko-sec&theme=chartreuse-dark&layout=compact">
-</p>
-<!--[Github Stats](https://github-readme-stats.vercel.app/api?username=ko-sec&show_icons=true&theme=chartreuse-dark&count_private=true)
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ko-sec&theme=chartreuse-dark&layout=compact)-->
+
+<h1> Hey 👋, This is kosec</h1>
+
+![Github Stats](https://github-readme-stats.vercel.app/api?username=ko-sec&show_icons=true&theme=chartreuse-dark&count_private=true)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ko-sec&theme=chartreuse-dark&layout=compact)
 
 Languages and Tools:
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" alt="java"></code>
