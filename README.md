@@ -13,13 +13,11 @@
 -->
 
 <h1 align="center">Hi 👋, I'm kosec</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
 
-- 📝 I regularly write articles on [https://ko-sec.github.io/KO_hackerDH/kosec.html](https://ko-sec.github.io/KO_hackerDH/kosec.html)
+- 📝我的黑客导航：https://ko-sec.github.io/KO_hackerDH/kosec.html
+- 📄我的博客：[在开发]
 
-- 📫 How to reach me **kosec@foxmail.com**
-
-- 📄 Know about my experiences [https://ko-sec.github.io/KO_hackerDH/kosec.html](https://ko-sec.github.io/KO_hackerDH/kosec.html)
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=ko-sec&show_icons=true&theme=chartreuse-dark&count_private=true"/>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
