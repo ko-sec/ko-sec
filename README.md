@@ -1,4 +1,4 @@
-<h2> Hey 👋, This is kosec</h2>
+## Hey 👋, This is kosec
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=ko-sec&show_icons=true&theme=chartreuse-dark&count_private=true"/>
 
