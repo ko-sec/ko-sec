@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm kosec</h1>
 
 - 📝渗透导航：https://ko-sec.github.io/KO_hackerDH/kosec.html
-- 📄博客：[在开发]
+- 📄职业技能：给大佬端茶送水
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=ko-sec&hide_border=true&show_icons=true&theme=chartreuse-dark&count_private=true"/>
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ko-sec&hide_border=true&theme=chartreuse-dark&layout=compact"/>
